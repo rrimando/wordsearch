@@ -1,6 +1,6 @@
 # Word Search Script 
 
-`python3 ./word_search.py --puzzle suits.pzl`
+`python3 ./WordSearch.py --puzzle suits.pzl`
 
 # Arg Parse
 
